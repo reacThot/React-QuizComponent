@@ -1,7 +1,7 @@
-import React, {Component} from 'react'
+import React, { Component } from 'react'
 
 class QuizEnd extends Component{
-  render{
+  render(){
     return(
       <div>
         <p>Thanks for playing!</p>
