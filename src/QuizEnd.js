@@ -9,7 +9,6 @@ class QuizEnd extends Component{
       </div>
     )
   }
-  
 }
 
 export default QuizEnd
